@@ -1,0 +1,79 @@
+.fondo1:after {
+	content: "";
+	background: url("../img/pista1.png");
+	opacity: 0.5;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	z-index: -1; 
+}
+.wrapper-g {
+	position: relative;
+	width: 640px;
+	height: 480px;
+	margin: 50px auto 0 auto;
+	padding-bottom: 30px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	clear: both;
+}
+
+.box-g {
+	float: left;
+	width: 50%;
+	height: 50%;
+	box-sizing: border-box;
+}
+
+.container-g {
+	width: 450px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.gauge {
+	width: 320px;
+	height: 240px;
+}
+.checkbox label:after {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+.checkbox .cr {
+	position: relative;
+	display: inline-block;
+	border: 1px solid #a9a9a9;
+	border-radius: .25em;
+	width: 1.3em;
+	height: 1.3em;
+	float: left;
+	margin-right: .5em;
+}
+
+.checkbox .cr .cr-icon {
+	position: absolute;
+	font-size: .8em;
+	line-height: 0;
+	top: 50%;
+	left: 15%;
+}
+
+.checkbox label input[type="checkbox"] {
+	display: none;
+}
+
+.checkbox label input[type="checkbox"]+.cr>.cr-icon {
+	opacity: 0;
+}
+
+.checkbox label input[type="checkbox"]:checked+.cr>.cr-icon {
+	opacity: 1;
+}
+
+.checkbox label input[type="checkbox"]:disabled+.cr {
+	opacity: .5;
+}

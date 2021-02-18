@@ -1,0 +1,54 @@
+/*REGULAR*/
+.comfortaa {
+	font-family:'Comfortaa';
+}
+.dosis {
+	font-family:'Dosis';
+}
+.raleway {
+	font-family:'Raleway';
+}
+
+/*NEGRILLA*/
+.comfortaa-n {
+	font-family:'Comfortaa';
+	font-weight:bold;
+}
+.dosis-n {
+	font-family:'Dosis';
+	font-weight:bold;
+}
+.raleway-n {
+	font-family:'Raleway';
+	font-weight:bold;
+}
+/*SOMBRA REGULAR */
+.comfortaa-sombra {
+	font-family:'Comfortaa';
+	text-shadow: 4px 4px 4px #aaa;
+}
+.dosis-sombra {
+	font-family:'Dosis';
+	text-shadow: 4px 4px 4px #aaa;
+}
+.raleway-sombra {
+	font-family:'Raleway';
+	text-shadow: 4px 4px 4px #aaa;
+}
+/*SOMBRA NEGRILLA*/
+.raleway-sombra-n {
+	font-family:'Raleway';
+	text-shadow: 4px 4px 4px #aaa;
+	font-weight:bold;
+}
+.comfortaa-sombra-n {
+	font-family:'Comfortaa';
+	text-shadow: 4px 4px 4px #aaa;
+	font-weight:bold;
+}
+.dosis-sombra-n {
+	font-family:'Dosis';
+	text-shadow: 4px 4px 4px #aaa;
+	font-weight:bold;
+}
+

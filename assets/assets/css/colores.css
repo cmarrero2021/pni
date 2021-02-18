@@ -1,0 +1,297 @@
+/*BOOTSTRAP*/
+.bgc-primary {
+	background-color:#007bff !important;
+}
+.bgc-secondary {
+	background-color:#6c757d !important;
+}
+.bgc-success {
+	background-color:#28a746 !important;
+}
+.bgc-danger {
+	background-color:#dc3546 !important;
+}
+.bgc-warning {
+	background-color:#ffc107 !important;
+}
+.bgc-info {
+	background-color:#17a3b8 !important;
+}
+.bgc-light {
+	background-color:#f8f9fa !important;
+}
+.bgc-dark {
+	background-color:#343a40 !important;
+}
+.cprimary {
+	color:#007bff !important;
+}
+.csecondary {
+	color:#6c757d !important;
+}
+.csuccess {
+	color:#28a746 !important;
+}
+.cdanger {
+	color:#dc3546 !important;
+}
+.cwarning {
+	color:#ffc107 !important;
+}
+.cinfo {
+	color:#17a3b8 !important;
+}
+.clight {
+	color:#f8f9fa !important;
+}
+.cdark {
+	color:#343a40 !important;
+}
+/*PALETA FLAT UI V1*/
+.bgc-turquesa {
+	background-color:#1abc9c !important;
+}
+.bgc-esmeralda {
+	background-color:#2ecc71 !important;
+}
+.bgc-peterriver {
+	background-color:#3498db !important;
+}
+.bgc-amatista {
+	background-color:#9b59b6 !important;
+}
+.bgc-asfaltohumedo {
+	background-color:#34495e !important;
+}
+.bgc-marverde {
+	background-color:#16a085 !important;
+}
+.bgc-nefritis {
+	background-color:#27ae60 !important;
+}
+.bgc-belizehole {
+	background-color:#2980b9 !important;
+}
+.bgc-wisteria {
+	background-color:#8e44ad !important;
+}
+.bgc-azulmedianoche {
+	background-color:#2c3e50 !important;
+}
+.bgc-girasol {
+	background-color:#f1c40f !important;
+}
+.bgc-zanahoria {
+	background-color:#e67e22 !important;
+}
+.bgc-alizarin {
+	background-color:#e74c3c !important;
+}
+.bgc-nube {
+	background-color:#ecf0f1 !important;
+}
+.bgc-concreto {
+	background-color:#95a5a6 !important;
+}
+.bgc-naranja {
+	background-color:#f39c12 !important;
+}
+.bgc-auyama {
+	background-color:#d35400 !important;
+}
+.bgc-granada {
+	background-color:#c0392b !important;
+}
+.bgc-plata {
+	background-color:#bdc3c7 !important;
+}
+.bgc-asbesto {
+	background-color:#007bff !important;
+}
+.cturquesa {
+	color:#1abc9c !important;
+}
+.cesmeralda {
+	color:#2ecc71 !important;
+}
+.cpeterriver {
+	color:#3498db !important;
+}
+.camatista {
+	color:#9b59b6 !important;
+}
+.casfaltohumedo {
+	color:#34495e !important;
+}
+.cmarverde {
+	color:#16a085 !important;
+}
+.cnefritis {
+	color:#27ae60 !important;
+}
+.cbelizehole {
+	color:#2980b9 !important;
+}
+.cwisteria {
+	color:#8e44ad !important;
+}
+.cazulmedianoche {
+	color:#2c3e50 !important;
+}
+.cgirasol {
+	color:#f1c40f !important;
+}
+.czanahoria {
+	color:#e67e22 !important;
+}
+.calizarin {
+	color:#e74c3c !important;
+}
+.cnube {
+	color:#ecf0f1 !important;
+}
+.cconcreto {
+	color:#95a5a6 !important;
+}
+.cnaranja {
+	color:#f39c12 !important;
+}
+.cauyama {
+	color:#d35400 !important;
+}
+.cgranada {
+	color:#c0392b !important;
+}
+.cplata {
+	color:#bdc3c7 !important;
+}
+.casbesto {
+	color:#007bff !important;
+}
+/*PALETA TURCA*/
+.bgc-lilabrillante {
+	background-color:#cd84f1 !important;
+}
+.bgc-prettyplace {
+	background-color:#ffcccc !important;
+}
+.bgc-rojoclaro {
+	background-color:#ff4d4d !important;
+}
+.bgc-mandarina {
+	background-color:#ffaf40 !important;
+}
+.bgc-amarilloclaro {
+	background-color:#fffa65 !important;
+}
+.bgc-purpuraligero {
+	background-color:#c56cf0 !important;
+}
+.bgc-salmonjoven {
+	background-color:#ffb8b8 !important;
+}
+.bgc-naranjarojizo {
+	background-color:#ff3838 !important;
+}
+.bgc-amarilloradiante {
+	background-color:#007bff !important;
+}
+.bgc-amarilloradiante {
+	background-color:#ff9f1a !important;
+}
+.bgc-verdeinvernal {
+	background-color:#fff200 !important;
+}
+.bgc-azulelectrico {
+	background-color:#7efff5 !important;
+}
+.bgc-azulneon {
+	background-color:#18dcff !important;
+}
+.bgc-aulmorado {
+	background-color:#7d5fff !important;
+}
+.bgc-aceroensombrecido {
+	background-color:#4b4b4b !important;
+}
+.bgc-weirdgreen {
+	background-color:#3ae374 !important;
+}
+.bgc-azulhamman {
+	background-color:#67e6dc !important;
+}
+.bgc-boladisco {
+	background-color:#17c0eb !important;
+}
+.bgc-indigoclaro {
+	background-color:#7158e2 !important;
+}
+.bgc-oceanobaltico {
+	background-color:#3d3d3d !important;
+}
+.bgc-turquesasuave {
+	background-color:#bfd6d9 !important;
+}
+.clilabrillante {
+	color:#cd84f1 !important;
+}
+.cprettyplace {
+	color:#ffcccc !important;
+}
+.crojoclaro {
+	color:#ff4d4d !important;
+}
+.cmandarina {
+	color:#ffaf40 !important;
+}
+.camarilloclaro {
+	color:#fffa65 !important;
+}
+.cpurpuraligero {
+	color:#c56cf0 !important;
+}
+.csalmonjoven {
+	color:#ffb8b8 !important;
+}
+.cnaranjarojizo {
+	color:#ff3838 !important;
+}
+.camarilloradiante {
+	color:#007bff !important;
+}
+.camarilloradiante {
+	color:#ff9f1a !important;
+}
+.cverdeinvernal {
+	color:#fff200 !important;
+}
+.cazulelectrico {
+	color:#7efff5 !important;
+}
+.cazulneon {
+	color:#18dcff !important;
+}
+.caulmorado {
+	color:#7d5fff !important;
+}
+.caceroensombrecido {
+	color:#4b4b4b !important;
+}
+.cweirdgreen {
+	color:#3ae374 !important;
+}
+.cazulhamman {
+	color:#67e6dc !important;
+}
+.cboladisco {
+	color:#17c0eb !important;
+}
+.cindigoclaro {
+	color:#7158e2 !important;
+}
+.coceanobaltico {
+	color:#3d3d3d !important;
+}
+.verdeclaro {
+	color:#c5e3c6 !important;
+}

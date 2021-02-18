@@ -1,0 +1,10 @@
+.img-50p {
+	width:50%;
+	height:60%;
+}
+@media only screen and (max-width:414px) and (orientation: portrait){
+	.img-50p {
+		width:100% !important;
+		height:40% !important;
+	}	
+}

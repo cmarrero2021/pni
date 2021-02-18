@@ -1,0 +1,5 @@
+SET application_name TO 'Cónsola';
+SET session "pni.user" = 'anónimo';
+SET session "pni.ci_usuario" = 0;
+SET session "pni.nombre_usuario" = 'CÓNSOLA';
+SET session "pni.ip" = '201.209.238.154';
